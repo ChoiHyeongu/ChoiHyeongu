@@ -6,4 +6,3 @@
 ![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=a11dsd)](https://solved.ac/a11dsd/)
